@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExportProfile Ver="1.3">
+  <General ConnectionProjectName="" ConnectionProjectOwnerNavicatID="" ConnectionName="oracle" DatabaseName="ORCL" SchemaName="SCOTT" ExportType="Text" TargetCodepage="65001" AddTimeStamp="false" TimeStampFormat="" IncludeTitle="false" FieldDelimiter="	" DateFormat="YMD" DateSeparator="-" ZeroPaddingDate="false" TimeSeparator=":" DecimalSeparator="." TextQualifier="&quot;" RowDelimiter="0" XMLFormat="Element" UseBase64="true" AppendRecord="false" ContinueOnError="true"/>
+  <STable STableName="between_and,in 学习" TTableName="" TargetFile="C:\Documents and Settings\ttc\桌面\between_and,in 学习.txt" AllFields="true"/>
+</ExportProfile>

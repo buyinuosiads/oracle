@@ -1,0 +1,13 @@
+-- select sum(emp.sal), avg(emp.sal)
+-- from emp 
+-- join dept on emp.deptno=dept.deptno 
+-- where emp.deptno=20
+
+-- select max(sal),min(sal)
+-- from emp 
+-- join dept on emp.DEPTNO=dept.DEPTNO
+-- where dept.loc='CHICAGO'
+-- 
+-- select COUNT(DISTINCT emp.JOB)
+-- from emp 
+-- join dept on emp.DEPTNO=dept.DEPTNO
